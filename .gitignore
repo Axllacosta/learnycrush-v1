@@ -1,0 +1,19 @@
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+build/
+
+# VS Code
+.vscode/
+
+# Sistema operativo
+.DS_Store
